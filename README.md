@@ -1,6 +1,6 @@
-# XML File transformation and storing data into Azure CosmosDB - Sample code
+# XML File transformation and storing data into Azure Cosmos DB - Sample code
 
-The project transforms sample xml file(books.xml) using Apache spark managed by Azure Databricks. Post transformation it stores the data to Azure CosmosDB.
+The project transforms sample xml file(books.xml) using Apache spark managed by Azure Databricks. Post transformation it stores the data to Azure Cosmos DB.
 
 ## Features
 
@@ -8,7 +8,7 @@ This project framework provides the following features:
 
 * Store xml files into Azure Data Lake Storage Gen2
 * Transform XML files into Spark RDD
-* Store transformed data into Azure CosmosDB
+* Store transformed data into Azure Cosmos DB
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ To begin with you need download book.xml file from this repository and upload it
 - Azure subscription
 - Azure Data Lake Storage Gen2 stroage account
 - Azure Databricks spark cluster
-- Azure CosmosDB
+- Azure Cosmos DB
 - Familiarity with python, Azure Databricks, Azure Key Valut store and Apache Spark 
 
 ### Installation
